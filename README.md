@@ -27,8 +27,8 @@
 
 ### 📫 Let's Connect
 
-- 🔗 LinkedIn:  
-- 💼 Portfolio Website:
+- 🔗 LinkedIn:  www.linkedin.com/in/ravi-baniya-181599378
+- 💼 Portfolio Website: ravibaniya.github.io
 - 📧 Email: ravibaniya.tech@gmail.com
 
 --- 
